@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<produits xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="products.xsd">
+    <produit id="1" prix="3600" quantite="121">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. tempor incididunt ut labore et dolore.
+        <nom>HP Laptop 77e</nom>
+        <promo>20</promo>
+        <categorie>ordinateurs</categorie>
+        <vignette source="img/product-1.jpg"/>
+    </produit>
+    <produit id="2" prix="1520" quantite="19">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. tempor incididunt ut labore et dolore.
+        <nom>Samsung Galaxy S3</nom>
+        <promo>30</promo>
+        <categorie>telephone</categorie>
+        <vignette source="img/product-2.jpg"/>
+    </produit>
+    <produit id="3" prix="1500" quantite="33">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. tempor incididunt ut labore et dolore.
+        <nom>Samsung Galaxy Core Prime</nom>
+        <promo>15</promo>
+        <categorie>telephone</categorie>
+        <vignette source="img/product-3.jpg"/>
+    </produit>
+    <produit id="4" prix="4200" quantite="51">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. tempor incididunt ut labore et dolore.
+        <nom>Samsung TV</nom>
+        <promo>23</promo>
+        <categorie>TV</categorie>
+        <vignette source="img/product-5.jpg"/>
+    </produit>
+    <produit id="5" prix="3200" quantite="60">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. tempor incididunt ut labore et dolore.
+        <nom>Acer Aspire 5573z</nom>
+        <promo>14</promo>
+        <categorie>ordinateurs</categorie>
+        <vignette source="img/product-4.jpg"/>
+    </produit>
+    <produit id="6" prix="2560" quantite="57">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. tempor incididunt ut labore et dolore.
+        <nom>Samsung Galaxy S4</nom>
+        <promo>0</promo>
+        <categorie>telephone</categorie>
+        <vignette source="img/product-2.jpg"/>
+    </produit>
+    <produit id="7" prix="1830" quantite="88">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. tempor incididunt ut labore et dolore.
+        <nom>Nokia Lumia 720</nom>
+        <promo>8</promo>
+        <categorie>telephone</categorie>
+        <vignette source="img/product-2.jpg"/>
+    </produit>
+    <produit id="11" prix="1300" quantite="44">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. tempor incididunt ut labore et dolore.
+        <nom>HP Lazer 547a8</nom>
+        <promo>8</promo>
+        <categorie>Imprimantes</categorie>
+        <vignette source="img/product-5.jpg"/>
+    </produit>
+    <produit id="12" prix="850" quantite="32">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. tempor incididunt ut labore et dolore.
+        <nom>Accent Tablet</nom>
+        <promo>0</promo>
+        <categorie>telephone</categorie>
+        <vignette source="img/products/product-1.jpg"/>
+    </produit>
+</produits>
